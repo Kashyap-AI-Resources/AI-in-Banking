@@ -5,6 +5,13 @@ Welcome to our comprehensive hub for AI resources tailored specifically for bank
 ## Resources
 
 ### Datasets
+#### Transaaction Fraud Detection
+* [Dataset](./transaction_fraud_dataset.csv)
+* Columns: step, type of transaction, amount, transaction originator name, originator initial balance, balance after transaction, transaction destination name, initial balance, balance after transaction, is fraud, was flagged fraud
+* Rows: ~ 102k
+* Related ML Implementations
+  * [Fraud or not classification](https://www.kaggle.com/code/arditriana/fraud-detection-classification)
+  * [A data study and basic rnadom forest classifier](https://www.kaggle.com/code/abnerfreitas/fraud-detection-example-study)
 ### Data Sources
 ### AI Implemented (examples)
 ### Insightful Articles and Opinions
