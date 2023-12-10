@@ -11,7 +11,7 @@ Welcome to our comprehensive hub for AI resources tailored specifically for bank
 * Rows: ~ 102k
 * Related ML Implementations
   * [Fraud or not classification](https://www.kaggle.com/code/arditriana/fraud-detection-classification)
-  * [A data study and basic rnadom forest classifier](https://www.kaggle.com/code/abnerfreitas/fraud-detection-example-study)
+  * [A data study and basic random forest classifier](https://www.kaggle.com/code/abnerfreitas/fraud-detection-example-study)
 ### Data Sources
 ### AI Implemented (examples)
 ### Insightful Articles and Opinions
