@@ -20,6 +20,7 @@ Welcome to our comprehensive hub for AI resources tailored specifically for bank
   * [Fraud or not classification](https://www.kaggle.com/code/arditriana/fraud-detection-classification)
   * [A data study and basic random forest classifier](https://www.kaggle.com/code/abnerfreitas/fraud-detection-example-study)
 ### Data Sources
+In several cases, direct banking information can not be used as datasets due their sensitive nature and customer privacy policies and regulations. Hence [synthetic data](https://mostly.ai/industries/synthetic-data-for-banking) is created to mimic the patterns and trends in real world financial data for use in various AI applications without compromising customer privacy. [This is an example](https://www.kaggle.com/datasets/ealaxi/paysim1)
 ### Insightful Articles and Opinions
 [Techxperts get data while your data is safe. Here's how](https://mostly.ai/industries/synthetic-data-for-banking)
 
